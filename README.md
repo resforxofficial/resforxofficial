@@ -1,16 +1,15 @@
 ### Hi there 👋
+ ### im resforx, my special literal repository now opened! come and take a look to see my project
 
-<!--
-**resforx/resforx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Crown Pip package
+i preparing for crown named which my first pip package 🎉🎉
 
-Here are some ideas to get you started:
+### Properties
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. i made crown pkg cuz i want to make similar print function-like also i used my skills to make it
+2. doesn't it looks nice? im so proud of making this !
+
+### Utility
+
+1. show()
+   show is to show its value to print out at terminal, or like prompt
