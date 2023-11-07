@@ -1,13 +1,12 @@
-### Hi there 👋
- ### Im resforx, my repository now opened! come and take a look to see my project
+## HELLO 🎉
 
-## zetaform javascript library
-I preparing for zetaform named my first javascript library 🎉🎉
+### resforx repository now opened!
+#### resforx is BE & DBA programmer and made zetaform
 
-### Properties
+> ## [Zetaform][zink]
+[zink]: "https://github.com/resforx/zetaform" "Go zetaform repository"
+> zetaform is JS library which can use JS more easier way
+> zetaform is now beta version to prepare, and make it
 
-1. I made zetaform library because i want to make javascript library for of it !
-2. doesn't it looks nice? Im so proud of making this !
-
-### Resforx Contact
-for more contact with resforx, come to feather076@gmail.com, or paedeogim@gmail.com
+## Contact
+#### for more contact of resforx, come to <feather076@gmail.com>, <paedeogim@gmail.com>
