@@ -1,12 +1,28 @@
 ## HELLO 🎉
+resforx repository now opened!
 
-### resforx repository now opened!
-#### resforx is BE & DBA programmer and made zetaform
+resforx is BE & DBA programmer and made zetaform
 
-> ## [Zetaform][zink]
-[zink]: "https://github.com/resforx/zetaform" "Go zetaform repository"
-> zetaform is JS library which can use JS more easier way
-> zetaform is now beta version to prepare, and make it
+> ## Zetaform
+>> zetaform is JS library which can use JS more easier way
+>>
+>> zetaform is now beta version to prepare, and make it
+>>
+>> ## Usage
+>> ### installation
+>> you can use yarn or npm to install it
+>> 
+>> yarn:
+>> ```yarn
+>> yarn add zetaform
+>> ```
+>>
+>> npm:
+>> ```npm
+>> npm install zetaform
+>> ```
+>>
+>> zetaform
 
 ## Contact
-#### for more contact of resforx, come to <feather076@gmail.com>, <paedeogim@gmail.com>
+#### for more contact of resforx, come to <feather076@gmail.com> or <paedeogim@gmail.com>
