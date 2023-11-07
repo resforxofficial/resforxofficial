@@ -1,18 +1,13 @@
 ### Hi there 👋
- ### im resforx, my special literal repository now opened! come and take a look to see my project
+ ### Im resforx, my repository now opened! come and take a look to see my project
 
-## Crownate Pip package
-i preparing for crownate named which my first pip package 🎉🎉
+## zetaform javascript library
+I preparing for zetaform named my first javascript library 🎉🎉
 
 ### Properties
 
-1. i made crownate pkg cuz i want to make similar print function-like also i used my skills to make it
-2. doesn't it looks nice? im so proud of making this !
-
-### Utility
-
-1. show()
-   show is to show its value to print out at terminal, or like prompt
+1. I made zetaform library because i want to make javascript library for of it !
+2. doesn't it looks nice? Im so proud of making this !
 
 ### Resforx Contact
 for more contact with resforx, come to feather076@gmail.com, or paedeogim@gmail.com
