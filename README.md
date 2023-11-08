@@ -22,7 +22,7 @@ resforx is BE & DBA programmer and made zetaform
 >> npm install zetaform
 >> ```
 >>
->> zetaform
+>> from now on, wait realeasing
 
 ## Contact
 #### for more contact of resforx, come to <feather076@gmail.com> or <paedeogim@gmail.com>
