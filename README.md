@@ -4,7 +4,7 @@ resforx repository now opened!
 resforx is BE & DBA programmer and made zetaform
 
 > ## Zetaform
->> zetaform is JS library which can use JS more easier way
+>> zetaform is JS library which find html elements using tag names and attributes
 >>
 >> zetaform is now beta version to prepare, and make it
 >>
@@ -22,7 +22,33 @@ resforx is BE & DBA programmer and made zetaform
 >> npm install zetaform
 >> ```
 >>
->> from now on, wait realeasing
+>> ### statements
+>>
+>> htmlsector(): htmlsector is a method which find html elements with using tags or attributes
+>> ```javascript
+>> const htmlsector = (tag, attribute, html) => {
+>>    const regex = new RegExp(`<${tag} ${attribute}.*?>([\\s\\S]*?)<\/${tag}>`, 'g');
+>>    let match = regex.exec(html);
+>>    const result = [];
+>>    const content = [];
+>>    while (match != null) {
+>>        result.push(match[0]); 
+>>        content.push(match[1]);  
+>>        match = regex.exec(html);
+>>    }
+>>    return {
+>>        value: () => content.join(' '), 
+>>        toString: () => result.join(' ')
+>>    };
+>>}
+>> ```
+>>
+>> to use htmlsector,
+>> ```javascript
+>> htmlsector("tag (like h1, p)", "attribute (like class, id)", <variable name>);
+>> ```
+>>
+>> variable name is which you write parameters in fs function, fs will be need because fs module helps reading html files
 
 ## Contact
 #### for more contact of resforx, come to <feather076@gmail.com> or <paedeogim@gmail.com>
